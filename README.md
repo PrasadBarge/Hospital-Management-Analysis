@@ -46,8 +46,7 @@ The Hospital Management Analysis Dashboard serves as a powerful tool for hospita
 - Expansion of the dashboard to include patient satisfaction data and feedback analysis.
 - Incorporation of benchmarking data to compare hospital performance with industry standards.
 
-## How to Access the Dashboard
-To view the interactive Power BI dashboard, [click here](#) (link to the published Power BI report or shared file).
+
 
 ## Author
           [Prasad Barge](#) – Data Analyst  
@@ -57,7 +56,10 @@ To view the interactive Power BI dashboard, [click here](#) (link to the publish
 
 
 ## Output :-   
-            ![Screenshot 2024-09-24 102816](https://github.com/user-attachments/assets/80d5d764-a01c-4548-b50c-f73f6faf82d2)
-            ![Screenshot 2024-09-24 102846](https://github.com/user-attachments/assets/db41cff1-630b-4b76-b031-255f07f7bfb8)
+ ![Screenshot 2024-09-24 102816 - Copy](https://github.com/user-attachments/assets/1beeb17f-f4c0-473e-9faf-591afc17c1af)
+ ![Screenshot 2024-09-24 102846](https://github.com/user-attachments/assets/b02d2b4a-b439-4cd8-9714-07889f7b37c1)
+
+
+            
 
 
